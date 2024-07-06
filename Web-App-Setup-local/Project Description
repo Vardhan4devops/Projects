@@ -8,7 +8,7 @@ Tools required:
 2.	Automation – Vagrant
 3.	CLI – Git Bash
 4.	IDE – Visual Studio
-Objective: Real world project setup locally for R&D, basekine for future projects.
+Objective: Real world project setup locally for R&D, baseline for future projects.
 Services setup in the project:
 1.	Nginx – load balancing service
 2.	Tomcat – java weeb application service
